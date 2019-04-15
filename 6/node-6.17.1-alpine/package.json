@@ -1,0 +1,11 @@
+{
+  "name": "teste-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Fernando da Costa Felicio",
+  "license": "MIT"
+}
