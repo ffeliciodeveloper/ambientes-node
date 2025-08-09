@@ -2,6 +2,8 @@
 
 1. docker-compose build
 
+Debug (Node Inspector): porta 9229 exposta no container
+
 2. docker-compose up (subindo e verificando os processos do container)
 
 3. docker-compose up -d (sobe o container sem a saída de execuções no terminal)

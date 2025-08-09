@@ -2,6 +2,8 @@
 
 1. docker-compose build
 
+Debug (Node Inspector): porta 9229 exposta no container
+
 2. docker-compose up -d
 
 3. docker-compose run node-course npm install (para rodar comandos diretamente dentro do container)
